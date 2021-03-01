@@ -26,7 +26,7 @@ module.exports = {
    *
    * ref：https://v1.vuepress.vuejs.org/theme/default-theme-config.html
    */
-  theme: "book",
+  /* theme: "book",*/
   themeConfig: {
     logo: "/logo.png",
     repo: "",
@@ -45,13 +45,29 @@ module.exports = {
         title: "Ingreso al Sistema",
         path: "/doc/ingreso/",
         collapsable: false,
-        sidebarDepth: 1,
+        sidebarDepth: 2,
       },
       {
+        title: "Educadores",
+        path: "/doc/main/",
+        collapsable: true,
+        sidebarDepth: 2,
+        children: [
+          "/doc/main/trabajos",
+          "/doc/main/miformacion",
+          "/doc/main/inscripciones",
+        ],
+      },
+      /*
+      {
+        title: "Inscripciones",
+        path: "/doc/main/inscripciones/",
+        collapsable: false,
+      },*/ {
         title: "Eventos",
         path: "/doc/eventos/",
         collapsable: true,
-        sidebarDepth: 1,
+        sidebarDepth: 2,
         children: [
           "/doc/eventos/creacion",
           "/doc/eventos/administrar",

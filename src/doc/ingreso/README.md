@@ -6,30 +6,35 @@ title: Ingreso al sistema.
 
 # Registro al Sistema
 
-Solo se podran registrar los miembros adultos afiliados a Scouts de Argentina.
-
+Solo se podrán registrar los miembros adultos afiliados a Scouts de Argentina.
 
 ::: tip
-Los educadores podran revisar su afiliacion  ingresando a https://www.scouts.org.ar/miembros-afiliados-2
+Los educadores podrán revisar su afiliación  ingresando a [scouts de argentina](https://www.scouts.org.ar/miembros-afiliados-2)
 :::
 
+# Ingreso al Sistema
 
-# Login Del Sistema
 -----------------
 
 Se debe Ingresar su numero de documento.
 
-![image-20210301101532509](/doc/login/login.png)
+![image-20210301134539862](https://i.loli.net/2021/03/02/nf4Zg6ehWGDvcHq.png)
 
-seleccionar el boton “Validar Documento”
 
-Desde la siguiente pantalla, podra ingresar su contraseña, y es importante que si tiene multiples funciones.
+
+seleccionar el botón “Validar Documento”
+
+Desde la siguiente pantalla, podrá ingresar su contraseña, y es importante que si tiene múltiples funciones.
 
 seleccione sobre que organismo va a trabajar.
 
-![clave](/doc/login/clave.png)
 
-Selecionar el boron Ingresar para comenzar a utilizar el sistema.
+
+![image-20210301134603907](https://i.loli.net/2021/03/02/acyTF1IbrSuXvjw.png)
+
+
+
+Seleccionar el boton Ingresar para comenzar a utilizar el sistema.
 
  
 
